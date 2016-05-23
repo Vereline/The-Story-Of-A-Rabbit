@@ -1,0 +1,27 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="11.png" transparentColor="">
+ <animation title="stay" delay="150">
+  <cut w="53" x="216" y="17" h="76" row="1" col="1"/>
+  <cut w="40" x="290" y="24" h="69" row="1" col="1"/>
+ </animation>
+ <animation title="walk" delay="150">
+  <cut w="46" x="289" y="107" h="62" row="1" col="1"/>
+  <cut w="47" x="349" y="107" h="62" row="1" col="1"/>
+ </animation>
+ <animation title="shoot" delay="150">
+  <cut w="58" x="70" y="368" h="66" row="1" col="1"/>
+  <cut w="84" x="152" y="367" h="68" row="1" col="1"/>
+ </animation>
+ <animation title="jump" delay="150">
+  <cut w="38" x="406" y="190" h="67" row="1" col="1"/>
+  <cut w="49" x="349" y="176" h="80" row="1" col="1"/>
+ </animation>
+ <animation title="climb" delay="150">
+  <cut w="35" x="142" y="187" h="73" row="1" col="1"/>
+  <cut w="35" x="204" y="183" h="70" row="1" col="1"/>
+ </animation>
+ <animation title="hit" delay="150">
+  <cut w="7" x="20" y="279" h="13" row="1" col="1"/>
+  <cut w="14" x="29" y="297" h="21" row="1" col="1"/>
+ </animation>
+</sprites>

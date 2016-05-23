@@ -1,0 +1,55 @@
+﻿  source.cpp
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clanimation.h(42): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clanimationmanager.h(39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clanimationmanager.h(67): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clanimationmanager.h(83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clanimationmanager.h(98): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clanimationmanager.h(114): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clanimationmanager.h(116): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\cllevel.h(59): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\cllevel.h(150): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\cllevel.h(151): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\cllevel.h(191): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\cllevel.h(248): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\cllevel.h(269): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\cllevel.h(270): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\cllevel.h(271): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\cllevel.h(272): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\cllevel.h(314): warning C4018: <: несоответствие типов со знаком и без знака
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\cllevel.h(323): warning C4018: <: несоответствие типов со знаком и без знака
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\cllevel.h(343): warning C4018: <: несоответствие типов со знаком и без знака
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\cllevel.h(344): warning C4018: <: несоответствие типов со знаком и без знака
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clentity.h(30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clentity.h(31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clentity.h(44): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clbullet.h(25): warning C4305: аргумент: усечение из "double" к "float"
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clbullet.h(27): warning C4305: =: усечение из "double" к "float"
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clbullet.h(35): warning C4018: <: несоответствие типов со знаком и без знака
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clenemy.h(32): warning C4305: аргумент: усечение из "double" к "float"
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clhealthbar.h(39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clplayer.h(47): warning C4305: =: усечение из "double" к "float"
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clplayer.h(54): warning C4305: =: усечение из "double" к "float"
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clplayer.h(61): warning C4305: =: усечение из "double" к "float"
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clplayer.h(62): warning C4305: =: усечение из "double" к "float"
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clplayer.h(68): warning C4305: =: усечение из "double" к "float"
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clplayer.h(101): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clplayer.h(112): warning C4018: <: несоответствие типов со знаком и без знака
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clplayer.h(132): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clplayer.h(135): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clplayer.h(140): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clplayer.h(143): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clgame.h(67): warning C4305: аргумент: усечение из "double" к "float"
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clgame.h(70): warning C4305: аргумент: усечение из "double" к "float"
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clgame.h(82): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clgame.h(86): warning C4018: <: несоответствие типов со знаком и без знака
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clgame.h(87): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clgame.h(90): warning C4018: <: несоответствие типов со знаком и без знака
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clgame.h(91): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clgame.h(93): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clgame.h(100): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clgame.h(112): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clgame.h(143): warning C4305: =: усечение из "double" к "float"
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\cllevel.h(317): warning C4715: Level::GetObject: значение возвращается не при всех путях выполнения
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clmenu.h(97): warning C4715: menu: значение возвращается не при всех путях выполнения
+d:\laby\2 semestr\cpp c\kursach\platformer\platformer\clgame.h(193): warning C4715: RunGame: значение возвращается не при всех путях выполнения
+  platformer.vcxproj -> D:\laby\2 semestr\CPP C\Kursach\PLatformer\Debug\platformer.exe
